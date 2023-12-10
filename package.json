@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahid-m/Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahid-m/Blog/issues"
+  },
+  "homepage": "https://github.com/Sahid-m/Blog#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "type": "module"
+}
